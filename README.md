@@ -69,6 +69,3 @@ No se recomienda usar Optional en:
 Kevin Royo  
 
 
----
-
-Si este repositorio te resulta útil, puedes dejar una estrella.
